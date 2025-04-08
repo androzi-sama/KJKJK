@@ -1,0 +1,11 @@
+Monday, 17 March 2025, 15:11:53.
+VCDS-Lite Version: Release 1.2
+Control Module Part Number: 6N0 909 901 
+  Component and/or Version: Gateway K<->CAN    0001
+           Software Coding: 00006
+            Work Shop Code: WSC 31414
+                      VCID: F093D3C3A3BB
+No fault code found.
+---------------------------------------------------------------------------
+
+
